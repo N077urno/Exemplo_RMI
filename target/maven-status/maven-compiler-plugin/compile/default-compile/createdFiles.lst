@@ -1,0 +1,5 @@
+com\mycompany\exemplo_rmi\Exemplo_RMI.class
+Servidor\Server.class
+Servidor\ContaCaracteres.class
+Interface\IContaCaracteres.class
+Cliente\Client.class
